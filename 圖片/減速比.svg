@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 600 190"><rect width="600" height="190" fill="#fff"/><defs><marker id="g" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#2e7d32"/></marker><marker id="o" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#ef6c00"/></marker></defs>
+<circle cx="110" cy="90" r="25" fill="#90caf9" stroke="#1565c0" stroke-width="3"/>
+<circle cx="250" cy="90" r="70" fill="#ffcc80" stroke="#ef6c00" stroke-width="3"/>
+<text x="40" y="150" font-size="12">馬達端：快、力氣小</text><text x="200" y="180" font-size="12">輸出端：慢、力氣大</text>
+<text x="350" y="70" fill="#c62828" font-weight="bold">減速比 64:1</text><text x="350" y="100">馬達轉 64 圈 → 輸出轉 1 圈</text>
+<text x="350" y="125">轉速 ÷64，扭力約 ×64</text></svg>

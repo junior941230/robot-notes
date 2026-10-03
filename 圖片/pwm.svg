@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 600 250"><rect width="600" height="250" fill="#fff"/><defs><marker id="g" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#2e7d32"/></marker><marker id="o" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#ef6c00"/></marker></defs>
+<g stroke="#1565c0" stroke-width="3" fill="none">
+<polyline points="60,60 60,30 90,30 90,60 160,60 160,30 190,30 190,60 260,60"/>
+<polyline points="60,140 60,110 130,110 130,140 160,140 160,110 230,110 230,140 260,140"/>
+<polyline points="60,220 60,190 155,190 155,220 160,220 160,190 255,190 255,220 260,220"/></g>
+<text x="280" y="50">Duty 30% → 平均電壓低 → 慢</text><text x="280" y="130">Duty 70% → 平均電壓中 → 中速</text>
+<text x="280" y="210">Duty 95% → 平均電壓高 → 快</text>
+<line x1="60" y1="18" x2="160" y2="18" stroke="#c62828" stroke-width="2"/><text x="85" y="14" font-size="12" fill="#c62828">一個週期</text></svg>

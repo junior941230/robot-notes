@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 560 230"><rect width="560" height="230" fill="#fff"/><defs><marker id="a" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#c62828"/></marker><marker id="b" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#1565c0"/></marker></defs>
+<g stroke="#333" stroke-width="3" fill="none">
+<line x1="80" y1="60" x2="160" y2="60"/><rect x="160" y="48" width="60" height="24" fill="#ffe0b2"/>
+<line x1="220" y1="60" x2="300" y2="60"/><polygon points="300,45 300,75 330,60" fill="#ffeb3b"/>
+<line x1="330" y1="45" x2="330" y2="75"/><line x1="330" y1="60" x2="420" y2="60"/></g>
+<text x="20" y="65">IO 腳</text><text x="160" y="40">限流電阻</text><text x="290" y="100">LED</text><text x="430" y="65">GND</text>
+<text x="20" y="150" fill="#c62828" font-weight="bold">電阻 = (IO 電壓 − LED 壓降) ÷ 電流</text>
+<text x="20" y="180">例：(5V − 2V) ÷ 0.015A ≈ 200Ω</text>
+<text x="20" y="210">大顆燈條 / 12V 燈 → 經 MOSFET 或繼電器驅動，不可直接接 IO</text></svg>

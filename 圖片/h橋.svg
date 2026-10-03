@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 560 330"><rect width="560" height="330" fill="#fff"/><defs><marker id="g" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#2e7d32"/></marker><marker id="o" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#ef6c00"/></marker></defs>
+<g stroke="#333" stroke-width="3" fill="none"><line x1="140" y1="40" x2="380" y2="40"/><line x1="140" y1="260" x2="380" y2="260"/>
+<line x1="140" y1="40" x2="140" y2="260"/><line x1="380" y1="40" x2="380" y2="260"/>
+<line x1="140" y1="150" x2="220" y2="150"/><line x1="300" y1="150" x2="380" y2="150"/></g>
+<circle cx="260" cy="150" r="40" fill="#e3f2fd" stroke="#1565c0" stroke-width="3"/><text x="245" y="156">馬達</text>
+<g fill="#fff" stroke="#333" stroke-width="2"><rect x="120" y="75" width="40" height="40"/><rect x="120" y="185" width="40" height="40"/>
+<rect x="360" y="75" width="40" height="40"/><rect x="360" y="185" width="40" height="40"/></g>
+<text x="130" y="100">S1</text><text x="130" y="210">S2</text><text x="370" y="100">S3</text><text x="370" y="210">S4</text>
+<text x="225" y="30">V+（電池）</text><text x="245" y="285">GND</text>
+<text x="10" y="140" fill="#2e7d32">S1+S4 導通</text><text x="10" y="160" fill="#2e7d32">→ 正轉</text>
+<text x="420" y="140" fill="#ef6c00">S3+S2 導通</text><text x="420" y="160" fill="#ef6c00">→ 反轉</text>
+<text x="150" y="320" fill="#c62828" font-weight="bold">同一側 S1+S2 同時導通 = 短路！</text></svg>

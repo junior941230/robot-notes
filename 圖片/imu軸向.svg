@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 480 260"><rect width="480" height="260" fill="#fff"/><defs><marker id="g" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#2e7d32"/></marker><marker id="o" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#ef6c00"/></marker></defs>
+<rect x="170" y="100" width="140" height="80" fill="#e3f2fd" stroke="#1565c0" stroke-width="3"/><text x="215" y="145">機器人</text>
+<line x1="240" y1="140" x2="240" y2="30" stroke="#2e7d32" stroke-width="3" marker-end="url(#g)"/><text x="250" y="40">前方 (X)</text>
+<path d="M350,140 a60,60 0 0,0 -40,-70" fill="none" stroke="#c62828" stroke-width="3"/><text x="355" y="110" fill="#c62828" font-weight="bold">Yaw 轉向</text>
+<text x="20" y="230">Yaw：水平轉向（最常用）  Pitch：前後傾  Roll：左右傾</text></svg>

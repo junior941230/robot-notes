@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 600 200"><rect width="600" height="200" fill="#fff"/><defs><marker id="g" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#2e7d32"/></marker><marker id="o" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#ef6c00"/></marker></defs>
+<text x="60" y="25" font-weight="bold">未壓下</text><text x="340" y="25" font-weight="bold">壓下</text>
+<g fill="#333"><circle cx="60" cy="100" r="6"/><circle cx="200" cy="60" r="6"/><circle cx="200" cy="140" r="6"/>
+<circle cx="340" cy="100" r="6"/><circle cx="480" cy="60" r="6"/><circle cx="480" cy="140" r="6"/></g>
+<text x="30" y="125">COM</text><text x="215" y="65">NC</text><text x="215" y="145">NO</text>
+<text x="310" y="125">COM</text><text x="495" y="65">NC</text><text x="495" y="145">NO</text>
+<line x1="60" y1="100" x2="195" y2="62" stroke="#2e7d32" stroke-width="4"/><line x1="340" y1="100" x2="475" y2="138" stroke="#2e7d32" stroke-width="4"/>
+<text x="40" y="185" fill="#2e7d32">COM–NC 通、COM–NO 不通</text><text x="320" y="185" fill="#2e7d32">COM–NO 通、COM–NC 不通</text></svg>

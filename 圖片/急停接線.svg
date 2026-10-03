@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 600 260"><rect width="600" height="260" fill="#fff"/><defs><marker id="a" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#c62828"/></marker><marker id="b" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#1565c0"/></marker></defs>
+<g stroke="#333" stroke-width="3" fill="none">
+<line x1="60" y1="60" x2="140" y2="60"/><line x1="220" y1="60" x2="300" y2="60"/>
+<line x1="380" y1="60" x2="460" y2="60"/></g>
+<rect x="20" y="40" width="40" height="40" fill="#e3f2fd" stroke="#1565c0" stroke-width="2"/><text x="25" y="65">電池</text>
+<rect x="140" y="40" width="80" height="40" fill="#ffcdd2" stroke="#c62828" stroke-width="2"/><text x="148" y="65">急停 (NC)</text>
+<rect x="300" y="40" width="80" height="40" fill="#fff" stroke="#333" stroke-width="2"/><text x="315" y="65">保險絲</text>
+<rect x="460" y="40" width="110" height="40" fill="#fff" stroke="#333" stroke-width="2"/><text x="470" y="65">驅動板 / 馬達</text>
+<text x="20" y="130" font-weight="bold">方式一：直接切斷馬達電源（最可靠）</text>
+<text x="20" y="155">按下 → NC 接點斷開 → 馬達斷電，程式當機也停得下來</text>
+<text x="20" y="200" font-weight="bold">方式二：接到控制器 IO，由程式停止</text>
+<text x="20" y="225" fill="#c62828" font-weight="bold">程式卡住就停不下來，只能當輔助，不能取代斷電</text></svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif">
+  <rect width="720" height="300" fill="#fff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- 輸入 -->
+  <text x="20" y="40" font-size="16" fill="#555">你的問題（輸入）</text>
+  <rect x="20" y="55" width="200" height="60" rx="8" fill="#f2f2f2" stroke="#333"/>
+  <text x="120" y="91" font-size="18" text-anchor="middle">超音波感應器是用來</text>
+
+  <line x1="225" y1="85" x2="275" y2="85" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- LLM -->
+  <rect x="280" y="50" width="120" height="70" rx="8" fill="#e8f0fe" stroke="#333"/>
+  <text x="340" y="92" font-size="22" text-anchor="middle" font-weight="bold">LLM</text>
+
+  <line x1="405" y1="85" x2="455" y2="85" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- 機率 -->
+  <text x="460" y="40" font-size="16" fill="#555">下一個詞的機率</text>
+  <text x="460" y="78" font-size="17" fill="red" font-weight="bold">測量</text>
+  <rect x="520" y="63" width="140" height="18" fill="red"/>
+  <text x="668" y="78" font-size="15" fill="red">70%</text>
+  <text x="460" y="108" font-size="17">偵測</text>
+  <rect x="520" y="93" width="40" height="18" fill="#999"/>
+  <text x="568" y="108" font-size="15">20%</text>
+  <text x="460" y="138" font-size="17">發出</text>
+  <rect x="520" y="123" width="10" height="18" fill="#999"/>
+  <text x="538" y="138" font-size="15">5%</text>
+
+  <!-- 回填 -->
+  <path d="M560 150 Q560 200 340 200 Q120 200 120 125" fill="none" stroke="red" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#a)"/>
+  <text x="340" y="225" font-size="16" fill="red" text-anchor="middle">選出的詞接到句子後面，再猜下一個</text>
+
+  <text x="360" y="275" font-size="18" text-anchor="middle">超音波感應器是用來<tspan fill="red" font-weight="bold">測量</tspan>距離的……（一直重複，直到回答完）</text>
+</svg>

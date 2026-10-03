@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 520 270"><rect width="520" height="270" fill="#fff"/><defs><marker id="g" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#2e7d32"/></marker><marker id="o" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#ef6c00"/></marker></defs>
+<line x1="60" y1="220" x2="480" y2="220" stroke="#333" stroke-width="2"/><line x1="60" y1="220" x2="60" y2="20" stroke="#333" stroke-width="2"/>
+<text x="10" y="30">電壓(V)</text><text x="420" y="258">距離(cm)</text>
+<polyline points="60,170 80,40 120,90 180,140 260,175 360,195 460,205" fill="none" stroke="#1565c0" stroke-width="3"/>
+<rect x="60" y="20" width="20" height="200" fill="#c62828" opacity="0.15"/>
+<text x="85" y="35" fill="#c62828" font-weight="bold">&lt;10 cm 電壓反而下降 → 誤判！</text>
+<text x="75" y="240">10</text><text x="170" y="240">20</text><text x="255" y="240">40</text><text x="355" y="240">60</text><text x="455" y="240">80</text></svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif">
+  <rect width="720" height="340" fill="#fff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="red"/>
+    </marker>
+  </defs>
+
+  <!-- 任務 -->
+  <rect x="20" y="140" width="120" height="60" rx="8" fill="#f2f2f2" stroke="#333"/>
+  <text x="80" y="167" font-size="17" text-anchor="middle">你給的任務</text>
+  <text x="80" y="189" font-size="14" text-anchor="middle" fill="#555">「加上濾波」</text>
+  <line x1="140" y1="155" x2="207" y2="100" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+
+  <!-- 想 -->
+  <rect x="210" y="40" width="150" height="70" rx="8" fill="#e8f0fe" stroke="#333"/>
+  <text x="285" y="70" font-size="20" text-anchor="middle" font-weight="bold">① 想</text>
+  <text x="285" y="94" font-size="14" text-anchor="middle">下一步該做什麼？</text>
+
+  <!-- 做 -->
+  <rect x="420" y="135" width="150" height="70" rx="8" fill="#e8f0fe" stroke="#333"/>
+  <text x="495" y="165" font-size="20" text-anchor="middle" font-weight="bold">② 做</text>
+  <text x="495" y="189" font-size="14" text-anchor="middle">用工具：讀檔、改檔、執行</text>
+
+  <!-- 看結果 -->
+  <rect x="210" y="230" width="150" height="70" rx="8" fill="#e8f0fe" stroke="#333"/>
+  <text x="285" y="260" font-size="20" text-anchor="middle" font-weight="bold">③ 看結果</text>
+  <text x="285" y="284" font-size="14" text-anchor="middle">成功了嗎？有錯誤嗎？</text>
+
+  <line x1="360" y1="85" x2="440" y2="132" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="450" y1="207" x2="365" y2="255" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+  <line x1="260" y1="228" x2="260" y2="114" stroke="red" stroke-width="2" marker-end="url(#r)"/>
+  <text x="270" y="166" font-size="14" fill="red">還沒好</text>
+  <text x="270" y="184" font-size="14" fill="red">再來一次</text>
+
+  <!-- 完成 -->
+  <line x1="360" y1="280" x2="575" y2="280" stroke="#333" stroke-width="2" marker-end="url(#a)"/>
+  <text x="468" y="270" font-size="14" text-anchor="middle">完成了</text>
+  <rect x="580" y="250" width="120" height="60" rx="8" fill="#fff" stroke="red" stroke-width="2"/>
+  <text x="640" y="277" font-size="17" text-anchor="middle" fill="red" font-weight="bold">回報給你</text>
+  <text x="640" y="298" font-size="13" text-anchor="middle" fill="red">你要再檢查</text>
+</svg>

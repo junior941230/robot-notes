@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 600 220"><rect width="600" height="220" fill="#fff"/><defs><marker id="g" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#2e7d32"/></marker><marker id="o" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#ef6c00"/></marker></defs>
+<rect x="30" y="70" width="70" height="60" fill="#1565c0"/><text x="38" y="105" fill="#fff">感應器</text>
+<rect x="470" y="30" width="20" height="140" fill="#555"/><text x="460" y="195">物體</text>
+<line x1="110" y1="85" x2="465" y2="85" stroke="#2e7d32" stroke-width="2" marker-end="url(#g)"/>
+<line x1="465" y1="115" x2="110" y2="115" stroke="#ef6c00" stroke-width="2" marker-end="url(#o)"/>
+<text x="230" y="78" fill="#2e7d32">發射 40 kHz 聲波</text><text x="250" y="135" fill="#ef6c00">回音</text>
+<text x="120" y="195" fill="#c62828" font-weight="bold">距離 = 聲速 × 時間 ÷ 2（一來一回）</text></svg>

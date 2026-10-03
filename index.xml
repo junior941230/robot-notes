@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>機器人筆記</title>
+      <link>https://junior941230.github.io/robot-notes</link>
+      <description>Last 10 notes on 機器人筆記</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>AI</title>
+    <link>https://junior941230.github.io/robot-notes/ai/</link>
+    <guid>https://junior941230.github.io/robot-notes/ai/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:53:36 GMT</pubDate>
+  </item><item>
+    <title>小知識</title>
+    <link>https://junior941230.github.io/robot-notes/%E5%B0%8F%E7%9F%A5%E8%AD%98/</link>
+    <guid>https://junior941230.github.io/robot-notes/%E5%B0%8F%E7%9F%A5%E8%AD%98/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:53:36 GMT</pubDate>
+  </item><item>
+    <title>硬體</title>
+    <link>https://junior941230.github.io/robot-notes/%E7%A1%AC%E9%AB%94/</link>
+    <guid>https://junior941230.github.io/robot-notes/%E7%A1%AC%E9%AB%94/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:53:36 GMT</pubDate>
+  </item><item>
+    <title>標籤索引</title>
+    <link>https://junior941230.github.io/robot-notes/tags/</link>
+    <guid>https://junior941230.github.io/robot-notes/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:53:36 GMT</pubDate>
+  </item><item>
+    <title>11 工具呼叫與 MCP（Tool Use &amp; MCP）</title>
+    <link>https://junior941230.github.io/robot-notes/ai/11-%E5%B7%A5%E5%85%B7%E5%91%BC%E5%8F%AB%E8%88%87-mcp%EF%BC%88tool-use--and--mcp%EF%BC%89</link>
+    <guid>https://junior941230.github.io/robot-notes/ai/11-%E5%B7%A5%E5%85%B7%E5%91%BC%E5%8F%AB%E8%88%87-mcp%EF%BC%88tool-use--and--mcp%EF%BC%89</guid>
+    <description><![CDATA[ 工具呼叫與 MCP（Tool Use &amp; MCP） 先看 AI 代理人（Agentic AI） 1. ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:52:50 GMT</pubDate>
+  </item><item>
+    <title>10 AI 代理人（Agentic AI）</title>
+    <link>https://junior941230.github.io/robot-notes/ai/10-ai-%E4%BB%A3%E7%90%86%E4%BA%BA%EF%BC%88agentic-ai%EF%BC%89</link>
+    <guid>https://junior941230.github.io/robot-notes/ai/10-ai-%E4%BB%A3%E7%90%86%E4%BA%BA%EF%BC%88agentic-ai%EF%BC%89</guid>
+    <description><![CDATA[ AI 代理人（Agentic AI） 先看 大型語言模型（LLM） 1. ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:51:42 GMT</pubDate>
+  </item><item>
+    <title>09 用 AI 學習新觀念（AI for Learning）</title>
+    <link>https://junior941230.github.io/robot-notes/ai/09-%E7%94%A8-ai-%E5%AD%B8%E7%BF%92%E6%96%B0%E8%A7%80%E5%BF%B5%EF%BC%88ai-for-learning%EF%BC%89</link>
+    <guid>https://junior941230.github.io/robot-notes/ai/09-%E7%94%A8-ai-%E5%AD%B8%E7%BF%92%E6%96%B0%E8%A7%80%E5%BF%B5%EF%BC%88ai-for-learning%EF%BC%89</guid>
+    <description><![CDATA[ 用 AI 學習新觀念（AI for Learning） 搭配 提示詞基礎（Prompt）、多輪追問與修正（Iteration） 1. 為什麼要特別講？ AI 可以直接給答案，但只拿答案不會變強，比賽現場也不一定能用 AI。 把 AI 當成隨時可以問的家教，而不是幫你寫作業的人。 2. ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:50:47 GMT</pubDate>
+  </item><item>
+    <title>機器人筆記</title>
+    <link>https://junior941230.github.io/robot-notes/</link>
+    <guid>https://junior941230.github.io/robot-notes/</guid>
+    <description><![CDATA[ 機器人筆記 硬體：控制器、馬達、感測器、電池等元件介紹 小知識：電學、訊號、控制等基礎觀念 AI：ChatGPT、Claude Code、Codex、opencode 的使用方法 從左側目錄開始閱讀。. ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:50:30 GMT</pubDate>
+  </item><item>
+    <title>08 用 AI 看圖片（Vision）</title>
+    <link>https://junior941230.github.io/robot-notes/ai/08-%E7%94%A8-ai-%E7%9C%8B%E5%9C%96%E7%89%87%EF%BC%88vision%EF%BC%89</link>
+    <guid>https://junior941230.github.io/robot-notes/ai/08-%E7%94%A8-ai-%E7%9C%8B%E5%9C%96%E7%89%87%EF%BC%88vision%EF%BC%89</guid>
+    <description><![CDATA[ 用 AI 看圖片（Vision） ChatGPT、Claude 都能看圖（見 ChatGPT 與 Claude 比較（ChatGPT vs Claude）） 1. ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:50:03 GMT</pubDate>
+  </item><item>
+    <title>07 用 AI 讀規格書（Datasheet）</title>
+    <link>https://junior941230.github.io/robot-notes/ai/07-%E7%94%A8-ai-%E8%AE%80%E8%A6%8F%E6%A0%BC%E6%9B%B8%EF%BC%88datasheet%EF%BC%89</link>
+    <guid>https://junior941230.github.io/robot-notes/ai/07-%E7%94%A8-ai-%E8%AE%80%E8%A6%8F%E6%A0%BC%E6%9B%B8%EF%BC%88datasheet%EF%BC%89</guid>
+    <description><![CDATA[ 用 AI 讀規格書（Datasheet） 搭配 給 AI 足夠的上下文（Context）；規格書範例可看 IR 紅外線測距感應器（SHARP GP2Y0A21YK0F） 1. ]]></description>
+    <pubDate>Sat, 03 Oct 2026 08:49:46 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

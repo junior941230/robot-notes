@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif">
+  <rect width="720" height="300" fill="#fff"/>
+
+  <!-- 代理人 -->
+  <text x="110" y="35" font-size="16" fill="#555" text-anchor="middle">代理人</text>
+  <rect x="40" y="50" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#333"/>
+  <text x="110" y="81" font-size="17" text-anchor="middle">Codex</text>
+  <rect x="40" y="125" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#333"/>
+  <text x="110" y="156" font-size="17" text-anchor="middle">Claude Code</text>
+  <rect x="40" y="200" width="140" height="50" rx="8" fill="#e8f0fe" stroke="#333"/>
+  <text x="110" y="231" font-size="17" text-anchor="middle">opencode</text>
+
+  <!-- MCP -->
+  <rect x="300" y="50" width="110" height="200" rx="10" fill="#fff" stroke="red" stroke-width="3"/>
+  <text x="355" y="140" font-size="24" text-anchor="middle" fill="red" font-weight="bold">MCP</text>
+  <text x="355" y="168" font-size="14" text-anchor="middle" fill="red">統一的插頭</text>
+
+  <g stroke="#333" stroke-width="2">
+    <line x1="180" y1="75" x2="300" y2="110"/>
+    <line x1="180" y1="150" x2="300" y2="150"/>
+    <line x1="180" y1="225" x2="300" y2="190"/>
+    <line x1="410" y1="90" x2="520" y2="65"/>
+    <line x1="410" y1="125" x2="520" y2="125"/>
+    <line x1="410" y1="175" x2="520" y2="185"/>
+    <line x1="410" y1="210" x2="520" y2="245"/>
+  </g>
+
+  <!-- 外部工具 -->
+  <text x="600" y="30" font-size="16" fill="#555" text-anchor="middle">外部工具</text>
+  <rect x="520" y="45" width="160" height="40" rx="8" fill="#f2f2f2" stroke="#333"/>
+  <text x="600" y="71" font-size="16" text-anchor="middle">瀏覽器</text>
+  <rect x="520" y="105" width="160" height="40" rx="8" fill="#f2f2f2" stroke="#333"/>
+  <text x="600" y="131" font-size="16" text-anchor="middle">GitHub</text>
+  <rect x="520" y="165" width="160" height="40" rx="8" fill="#f2f2f2" stroke="#333"/>
+  <text x="600" y="191" font-size="16" text-anchor="middle">資料庫</text>
+  <rect x="520" y="225" width="160" height="40" rx="8" fill="#f2f2f2" stroke="#333"/>
+  <text x="600" y="251" font-size="16" text-anchor="middle">官方文件</text>
+
+  <text x="360" y="290" font-size="15" text-anchor="middle">做一次 MCP，所有代理人都能接</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Microsoft JhengHei,sans-serif" font-size="14" viewBox="0 0 640 230"><rect width="640" height="230" fill="#fff"/><defs><marker id="a" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#c62828"/></marker><marker id="b" markerWidth="8" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8z" fill="#1565c0"/></marker></defs>
+<g stroke="#333" stroke-width="2">
+<circle cx="100" cy="100" r="60" fill="#eee"/><circle cx="100" cy="100" r="15" fill="#999"/>
+<circle cx="320" cy="100" r="60" fill="#eee"/>
+<g fill="#ffcc80"><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(0 320 100)"/><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(45 320 100)"/><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(90 320 100)"/><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(135 320 100)"/><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(180 320 100)"/><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(225 320 100)"/><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(270 320 100)"/><rect x="310" y="30" width="20" height="28" rx="8" transform="rotate(315 320 100)"/></g>
+<circle cx="320" cy="100" r="15" fill="#999"/>
+<rect x="490" y="40" width="80" height="120" rx="10" fill="#eee"/>
+<g fill="#90caf9"><rect x="502" y="48" width="56" height="12" rx="6" transform="rotate(-45 530 54)"/><rect x="502" y="70" width="56" height="12" rx="6" transform="rotate(-45 530 76)"/><rect x="502" y="92" width="56" height="12" rx="6" transform="rotate(-45 530 98)"/><rect x="502" y="114" width="56" height="12" rx="6" transform="rotate(-45 530 120)"/><rect x="502" y="136" width="56" height="12" rx="6" transform="rotate(-45 530 142)"/></g></g>
+<text x="60" y="195" font-weight="bold">一般輪</text><text x="65" y="215" font-size="12">只能前後滾</text>
+<text x="290" y="195" font-weight="bold">全向輪</text><text x="255" y="215" font-size="12">滾輪與輪子方向垂直（90°）</text>
+<text x="490" y="195" font-weight="bold">麥克納姆輪</text><text x="470" y="215" font-size="12">滾輪斜 45°</text></svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" font-family="Microsoft JhengHei, Noto Sans TC, sans-serif">
+  <rect width="760" height="200" fill="#fff"/>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#333"/>
+    </marker>
+    <marker id="r" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="red"/>
+    </marker>
+  </defs>
+
+  <g font-size="16" text-anchor="middle">
+    <rect x="10" y="60" width="90" height="56" rx="8" fill="#f2f2f2" stroke="#333"/>
+    <text x="55" y="84">① 存檔</text><text x="55" y="104" font-size="12" fill="#555">Git</text>
+
+    <rect x="115" y="60" width="90" height="56" rx="8" fill="#e8f0fe" stroke="#333"/>
+    <text x="160" y="84">② 規劃</text><text x="160" y="104" font-size="12" fill="#555">Plan 模式</text>
+
+    <rect x="220" y="60" width="90" height="56" rx="8" fill="#fff" stroke="red" stroke-width="2"/>
+    <text x="265" y="84" fill="red" font-weight="bold">③ 確認</text><text x="265" y="104" font-size="12" fill="red">你看計畫</text>
+
+    <rect x="325" y="60" width="90" height="56" rx="8" fill="#e8f0fe" stroke="#333"/>
+    <text x="370" y="84">④ 執行</text><text x="370" y="104" font-size="12" fill="#555">它改程式</text>
+
+    <rect x="430" y="60" width="90" height="56" rx="8" fill="#fff" stroke="red" stroke-width="2"/>
+    <text x="475" y="84" fill="red" font-weight="bold">⑤ 驗證</text><text x="475" y="104" font-size="12" fill="red">編譯＋實測</text>
+
+    <rect x="535" y="60" width="90" height="56" rx="8" fill="#fff" stroke="red" stroke-width="2"/>
+    <text x="580" y="84" fill="red" font-weight="bold">⑥ 檢查</text><text x="580" y="104" font-size="12" fill="red">看改了什麼</text>
+
+    <rect x="640" y="60" width="90" height="56" rx="8" fill="#f2f2f2" stroke="#333"/>
+    <text x="685" y="84">⑦ 存檔</text><text x="685" y="104" font-size="12" fill="#555">commit</text>
+  </g>
+
+  <g stroke="#333" stroke-width="2">
+    <line x1="100" y1="88" x2="113" y2="88" marker-end="url(#a)"/>
+    <line x1="205" y1="88" x2="218" y2="88" marker-end="url(#a)"/>
+    <line x1="310" y1="88" x2="323" y2="88" marker-end="url(#a)"/>
+    <line x1="415" y1="88" x2="428" y2="88" marker-end="url(#a)"/>
+    <line x1="520" y1="88" x2="533" y2="88" marker-end="url(#a)"/>
+    <line x1="625" y1="88" x2="638" y2="88" marker-end="url(#a)"/>
+  </g>
+
+  <!-- 回頭箭頭 -->
+  <path d="M265 60 Q265 20 160 20 Q160 40 160 58" fill="none" stroke="red" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#r)"/>
+  <text x="215" y="14" font-size="13" fill="red" text-anchor="middle">不對就改計畫</text>
+  <path d="M475 116 Q475 160 370 160 Q370 140 370 118" fill="none" stroke="red" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#r)"/>
+  <text x="422" y="182" font-size="13" fill="red" text-anchor="middle">有問題就回報、再修</text>
+
+  <text x="660" y="160" font-size="13" fill="#555" text-anchor="middle">紅框 = 一定要你自己做</text>
+</svg>
